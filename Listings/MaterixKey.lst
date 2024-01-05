@@ -1,0 +1,24 @@
+C51 COMPILER V9.54   MATERIXKEY                                                            01/03/2024 22:10:23 PAGE 1   
+
+
+C51 COMPILER V9.54, COMPILATION OF MODULE MATERIXKEY
+OBJECT MODULE PLACED IN .\Objects\MaterixKey.obj
+COMPILER INVOKED BY: C:\Users\Bela viro\Desktop\keil_C51\C51\BIN\C51.EXE MaterixKey.c OPTIMIZE(8,SPEED) BROWSE DEBUG OBJ
+                    -ECTEXTEND PRINT(.\Listings\MaterixKey.lst) TABS(2) OBJECT(.\Objects\MaterixKey.obj)
+
+line level    source
+
+
+
+MODULE INFORMATION:   STATIC OVERLAYABLE
+   CODE SIZE        =   ----    ----
+   CONSTANT SIZE    =   ----    ----
+   XDATA SIZE       =   ----    ----
+   PDATA SIZE       =   ----    ----
+   DATA SIZE        =   ----    ----
+   IDATA SIZE       =   ----    ----
+   BIT SIZE         =   ----    ----
+END OF MODULE INFORMATION.
+
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  0 ERROR(S)
